@@ -64,5 +64,8 @@ ul li a:hover:after{
     margin: 0 auto;
     margin-top: -45px;
 }
-.dui{
+footer{
+    background: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
